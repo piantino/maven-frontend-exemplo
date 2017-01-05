@@ -7,7 +7,7 @@ https://github.com/eirslett/frontend-maven-plugin
 
 ## Arquivos de configuração
 
-No *pom.xml* é definido um *profile* chamado *prod* para a geração do projeto *.war* otimizado.
+No 
 
 ## Comando maven
 

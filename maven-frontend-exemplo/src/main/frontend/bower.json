@@ -1,8 +1,0 @@
-{
-  "version": "0.0.1",
-  "name": "maven-frontend-exemplo",
-  "appPath": "src/main/webapp/",
-  "dependencies": {
-    "angular-route": "^1.6.1"
-  }
-}

@@ -9,9 +9,13 @@ https://github.com/eirslett/frontend-maven-plugin
 ## Arquivos de configuração
 
 /maven-frontend-exemplo/pom.xml (Configuração do plugin front-end-maven-plugin e dos diretórios utilizados pelo node e bower)
+
 /maven-frontend-exemplo/src/main/frontend/bower.json (Configuração de dependências do bower)
+
 /maven-frontend-exemplo/src/main/frontend/gulpfile.js (Configuração das tarefas do gulp)
+
 /maven-frontend-exemplo/src/main/frontend/package.json (Configurações dos pacotes do node: bower, gulp e gulp-*)
+
 /maven-frontend-exemplo/src/main/frontend/.bowerrc  (Configura para que os pacotes bower sejam colocados em /maven-frontend-exemplo/webapp/lib)
 
 ## Comando maven

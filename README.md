@@ -1,5 +1,6 @@
 # maven-frontend-exemplo
 Exemplo da geração de frontend otimizado com gulp somente utilizando maven.
+As tarefas gulp (minificação, hash nos arquivos para cache foram baseadas no framework https://jhipster.github.io/production/)
 
 ## Plugin maven para node, npm, bower e gulp
 
@@ -7,7 +8,11 @@ https://github.com/eirslett/frontend-maven-plugin
 
 ## Arquivos de configuração
 
-No 
+/maven-frontend-exemplo/pom.xml (Configuração do plugin front-end-maven-plugin e dos diretórios utilizados pelo node e bower)
+/maven-frontend-exemplo/src/main/frontend/bower.json (Configuração de dependências do bower)
+/maven-frontend-exemplo/src/main/frontend/gulpfile.js (Configuração das tarefas do gulp)
+/maven-frontend-exemplo/src/main/frontend/package.json (Configurações dos pacotes do node: bower, gulp e gulp-*)
+/maven-frontend-exemplo/src/main/frontend/.bowerrc  (Configura para que os pacotes bower sejam colocados em /maven-frontend-exemplo/webapp/lib)
 
 ## Comando maven
 
